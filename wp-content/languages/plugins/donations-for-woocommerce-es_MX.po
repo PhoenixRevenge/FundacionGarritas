@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Potent Donations for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-13 02:02+0000\n"
+"PO-Revision-Date: 2020-12-13 02:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de México\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: donations-for-woocommerce.php:88
+msgid "Amount"
+msgstr "Cantidad"
+
+#: donations-for-woocommerce.php:163
+msgid "Amount increment"
+msgstr ""
+
+#: admin.php:13
+msgid "Checkout"
+msgstr ""
+
+#: donations-for-woocommerce.php:161
+msgid "Default amount"
+msgstr ""
+
+#: admin.php:18
+msgid "Disable donation amount field in cart"
+msgstr ""
+
+#: donations-for-woocommerce.php:142 donations-for-woocommerce.php:143
+msgid "Donate"
+msgstr "Donar"
+
+#: donations-for-woocommerce.php:56 admin.php:4
+msgid "Donations for WooCommerce"
+msgstr ""
+
+#: donations-for-woocommerce.php:56
+msgid "Donations Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily accept donations of varying amounts through your WooCommerce store."
+msgstr ""
+
+#. Author URI of the plugin
+msgid ""
+"http://potentplugins.com/?utm_source=donations-for-"
+"woocommerce&utm_medium=link&utm_campaign=wp-plugin-author-uri"
+msgstr ""
+
+#: donations-for-woocommerce.php:49
+msgid "Instructions & Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Potent Donations for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "Potent Plugins"
+msgstr ""
+
+#: admin.php:24
+msgid "Save Settings"
+msgstr ""
+
+#: admin.php:7
+msgid "Settings"
+msgstr ""
+
+#: admin.php:6
+msgid ""
+"Simply create a new WooCommerce product for each type of donation you would "
+"like to accept. Under Product Data, set the product type to \"Donation\". "
+"Optionally, set the default donation amount in the General section. You'll "
+"probably also want to ensure that product reviews are disabled in the "
+"Advanced section. That's all!"
+msgstr ""
+
+#: donations-for-woocommerce.php:67
+msgid "The settings have been saved."
+msgstr ""
+
+#: admin.php:5
+msgid "Usage Instructions"
+msgstr ""
